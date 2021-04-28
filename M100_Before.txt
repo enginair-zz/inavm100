@@ -13,6 +13,7 @@ batch start
 
 mmix reset
 
+#my config
 mmix 0  1.000 -1.000  1.000 -1.000
 mmix 1  1.000 -1.000 -1.000  1.000
 mmix 2  1.000  1.000  1.000  1.000
